@@ -1,2 +1,3 @@
 Name: Ash
 Age : 25
+DOB :10/07/96
